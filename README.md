@@ -1,5 +1,5 @@
 # SAFIRE
-KSP - Stockalike Adjustment to Fuel, ISRU, Ratios and Engine
+Stockalike Adjustment to Fuel, ISRU, Ratios and Engine
 
 SAFIRE mod for KSP by riocrokite
 
