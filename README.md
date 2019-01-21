@@ -21,7 +21,9 @@ SAFIRE mod for KSP by riocrokite. This mod is a Module Manager patch that change
 
 3.5. Xenon price per kg remains the same
 
-4. ISRU rebalance: converters are now slow but don't need heat radiators needed. They can produce only oxidizer; 1t of Oxidizer per day for large ISRU, 200kg for small. They can also operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level). Energy needs: ~30 EC needed for 100% small efficiency, ~120 EC needed for large 100% efficiency
+4. ISRU rebalance: converters are now slow but don't need heat radiators needed. They can produce only oxidizer; 1t of Oxidizer per day for large ISRU, 200kg for small. They can also operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level). Energy needs: ~30 EC needed for 100% small efficiency, ~120 EC needed for large 100% efficiency.
+
+All in all rockets should cost the same, players have more incentive now to resuse stages and especially engines (SMART Reuse) since they are the main cost of the rocket. Reusable rockets, TSTO and SSTOs are now even more economically viable because of more reaslitic (much lower) fuel cost. ISRU even if gimped has now sense because 75% of propellant mass can be produced in non-manned way. 
 
 ### Copyright 2019 by riocrokite
 
