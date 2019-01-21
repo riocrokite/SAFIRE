@@ -1,5 +1,5 @@
 # SAFIRE
-Stockalike Adjustment to Fuel, ISRU, Ratios and Engine.
+Stockalike Adjustment to Fuel, ISRU, Ratios and Engines.
 
 ### Requirements: Module Manager by Sarbian
 
