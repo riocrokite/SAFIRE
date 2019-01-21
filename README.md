@@ -11,15 +11,15 @@ Stockalike Adjustment to Fuel, ISRU, Ratios and Engines
 
 3. Rebalance relative cost of engines, tanks and LF/OX
 
-3.1 LFO engines cost 1.6x more (NERV,Jets and ion engine costs unchanged)
+3.1. LFO engines cost 1.6x more (NERV,Jets and ion engine costs unchanged)
 
-3.2 LF/O tanks cost 60% less
+3.2. LF/O tanks cost 60% less
 
-3.3 LF and Oxidizer cost around 95% less
+3.3. LF and Oxidizer cost around 95% less
 
-3.4 Mono costs around 50% less
+3.4. Mono costs around 50% less
 
-3.5 Xenon price remains the same
+3.5. Xenon price remains the same
 
 4. ISRU rebalance, slow but no heat radiators needed, can produce only oxidizer, 1t of Oxidizer per day for large ISRU, 200kg for small can operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level) 30 EC needed for 100% small efficiency, 120 EC needed for large 100% efficiency
 
