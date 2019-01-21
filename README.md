@@ -1,7 +1,7 @@
 # SAFIRE
 Stockalike Adjustment to Fuel, ISRU, Ratios and Engine.
 
-## Requirements: Module Manager by Sarbian.
+### Requirements: Module Manager by Sarbian
 
 SAFIRE mod for KSP by riocrokite. This mod is a Module Manager patch that changes several things in stock config:
 
