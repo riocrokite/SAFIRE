@@ -1,17 +1,15 @@
 # SAFIRE
 Stockalike Adjustment to Fuel, ISRU, Ratios and Engine
 
-SAFIRE mod for KSP by riocrokite
+SAFIRE mod for KSP by riocrokite. This mod is a Module Manager patch that changes several things in stock config:
 
-Stockalike Adjustment to Fuel, ISRU, Ratios and Engines
+1. Adjusts all stock resources (LF/O/Mono/Xenon/Ore) to 1 unit = 1kg.
 
-1. Adjust all stock resources (LF/O/Mono/Xenon/Ore) to 1 unit = 1kg.
+2. Rebalances O/F ratio for LFO rocket engines from 1.1:0.9 to 3:1.
 
-2. Rebalance O/F ratio for LFO rocket engines from 1.1:0.9 to 3:1.
+3. Rebalances relative cost of engines, tanks and LF/OX
 
-3. Rebalance relative cost of engines, tanks and LF/OX
-
-3.1. LFO engines cost 1.6x more (NERV,Jets and ion engine costs unchanged)
+3.1. LFO engines cost 1.6x more (NERV,Jets and ion engine costs are unchanged)
 
 3.2. LF/O tanks cost 60% less
 
@@ -19,9 +17,9 @@ Stockalike Adjustment to Fuel, ISRU, Ratios and Engines
 
 3.4. Mono costs around 50% less
 
-3.5. Xenon price remains the same
+3.5. Xenon price per kg remains the same
 
-4. ISRU rebalance, slow but no heat radiators needed, can produce only oxidizer, 1t of Oxidizer per day for large ISRU, 200kg for small can operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level) 30 EC needed for 100% small efficiency, 120 EC needed for large 100% efficiency
+4. ISRU rebalance: converters are now slow but don't need heat radiators needed. They can produce only oxidizer; 1t of Oxidizer per day for large ISRU, 200kg for small. They can also operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level). Energy needs: ~30 EC needed for 100% small efficiency, ~120 EC needed for large 100% efficiency
 
 Copyright 2019 by riocrokite
 
