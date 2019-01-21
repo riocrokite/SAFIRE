@@ -16,7 +16,7 @@ What does it do? It changes several things via MM patches:
 3.5 Xenon price remains the same
 4. ISRU rebalance, slow but no heat radiators needed,
 can produce only oxidizer, 1t of Oxidizer per day for large ISRU, 200kg for small
-can operate at almost 100% efficiency unmanned, kerbals give reduced improvement (~10% per level)
+can operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level)
 30 EC needed for 100% small efficiency, 120 EC needed for large 100% efficiency
 
 Requires current Module Manager to work.
