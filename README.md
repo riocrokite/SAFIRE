@@ -1,7 +1,7 @@
 # SAFIRE
 Stockalike Adjustment to Fuel, ISRU, Ratios and Engine.
 
-##Requirements: Module Manager by Sarbian.
+## Requirements: Module Manager by Sarbian.
 
 SAFIRE mod for KSP by riocrokite. This mod is a Module Manager patch that changes several things in stock config:
 
@@ -23,7 +23,7 @@ SAFIRE mod for KSP by riocrokite. This mod is a Module Manager patch that change
 
 4. ISRU rebalance: converters are now slow but don't need heat radiators needed. They can produce only oxidizer; 1t of Oxidizer per day for large ISRU, 200kg for small. They can also operate at almost 100% efficiency unmanned, Kerbals give reduced improvement (~10% per level). Energy needs: ~30 EC needed for 100% small efficiency, ~120 EC needed for large 100% efficiency
 
-###Copyright 2019 by riocrokite
+### Copyright 2019 by riocrokite
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
